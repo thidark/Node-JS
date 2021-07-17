@@ -1,0 +1,38 @@
+
+D:\Nodejs_Tuto>npm init
+This utility will walk you through creating a package.json file.
+    It only covers the most common items, and tries to guess sensible defaults.
+
+    See `npm help json` for definitive documentation on these fields
+and exactly what they do.
+
+    Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+    Press ^C at any time to quit.
+    package name: (nodejs_tuto) node-tuto
+version: (1.0.0) 1.0.1
+description: Node Tutorial by Thidar
+entry point: (10_writeFilesync.js) app.js
+test command:
+    git repository:
+    keywords: Note Tuto
+author: Thidar
+license: (ISC)
+About to write to D:\Nodejs_Tuto\package.json:
+
+{
+    "name": "node-tuto",
+    "version": "1.0.1",
+    "description": "Node Tutorial by Thidar",
+    "main": "app.js",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+},
+    "keywords": [
+    "Note",
+    "Tuto"
+],
+    "author": "Thidar",
+    "license": "ISC"
+}
